@@ -1,3 +1,11 @@
-Assignments
-flask/venv
-VSdemo/my_env
+Assignments/
+flask/venv/
+flask/.vscode/
+imagescraper/imagescraper/
+ML Projects/mlflow-dvc-demo/env/
+ML Projects/mlflow-dvc-demo/miruns
+VSdemo/my_env/
+Mongodb/venv/
+NumpyPandas/venv/
+
+
